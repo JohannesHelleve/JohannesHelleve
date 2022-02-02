@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johannes</h1>
 <h3 align="center">Currently studying informatics @ University of Bergen</h3>
 
-<h3 align="left">Current courses @ UiB:</h3>'
+<h3 align="left">Current courses @ UiB:</h3>
 
 - INF115 [Databases and modelling](https://www.uib.no/en/course/INF115)
 
