@@ -7,7 +7,6 @@
 
 - MNF130 [Discrete Structures](https://www.uib.no/en/course/MNF130)
 
-- 📫 How to reach me **https://www.linkedin.com/in/johannes-helleve-420739225/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
